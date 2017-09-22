@@ -1,0 +1,16 @@
+{
+  "loopperfect/valuable": {
+    "source": {
+      "url": "https://github.com/loopperfect/valuable/archive/e3f3541f33b6338966e6f56a3ab2202a8dc6f540.zip",
+      "sha256": "1e225b2a98603e81991dd65f9df2d46df883dc352845b83b7450839b334f3ded",
+      "subPath": "valuable-e3f3541f33b6338966e6f56a3ab2202a8dc6f540"
+    }
+  },
+  "loopperfect/neither": {
+    "source": {
+      "url": "https://github.com/loopperfect/neither/archive/c313b3ce65249b2dfc3f7820e7ed4873111d2fe8.zip",
+      "sha256": "fe58cd55cd9177abc1ffe9550091b678ad265e5ead40305a53d5c55e562a9b68",
+      "subPath": "neither-c313b3ce65249b2dfc3f7820e7ed4873111d2fe8"
+    }
+  }
+}

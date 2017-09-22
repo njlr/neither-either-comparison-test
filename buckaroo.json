@@ -1,0 +1,7 @@
+{
+  "name": "valuable-either-comparison-test",
+  "dependencies": {
+    "loopperfect/valuable": "0.1.0",
+    "loopperfect/neither": "0.1.0"
+  }
+}
